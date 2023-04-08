@@ -1,0 +1,30 @@
+.div_menu {
+  background-color: black;
+}
+
+.menu {
+  color: white;
+  text-decoration-color: white;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+.menu:hover {
+  color: cyan;
+}
+.menu:active {
+  color: red;
+}
+
+.slider-div {
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+}
+
+footer {
+  background-color: black;
+  text-align: center;
+  color: white;
+}
